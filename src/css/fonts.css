@@ -1,0 +1,27 @@
+/* neucha-regular - latin */
+@font-face {
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/neucha-v11-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Neucha'),
+         url('../fonts/neucha-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/neucha-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/neucha-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/neucha-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/neucha-v11-latin-regular.svg#Neucha') format('svg'); /* Legacy iOS */
+  }
+
+/* lakki-reddy-regular - latin */
+@font-face {
+    font-family: 'Lakki Reddy';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/lakki-reddy-v6-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Lakki Reddy'), local('LakkiReddy'),
+         url('../fonts/lakki-reddy-v6-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/lakki-reddy-v6-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/lakki-reddy-v6-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/lakki-reddy-v6-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/lakki-reddy-v6-latin-regular.svg#LakkiReddy') format('svg'); /* Legacy iOS */
+  }

@@ -1,0 +1,22 @@
+@import-normalize;
+@import './fonts.css';
+@import './recipe-list.css';
+
+*,*::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Neucha', Arial, Helvetica, sans-serif;
+}
+
+html {
+    font-size: 25px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-family: 'Lakki Reddy', Georgia, 'Times New Roman', Times, serif;
+    size: 30px;
+}

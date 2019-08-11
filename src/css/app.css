@@ -1,6 +1,11 @@
 @import-normalize;
 @import './fonts.css';
 @import './recipe-list.css';
+@import './buttons.css';
+@import 'ingredient-list.css';
+@import './recipe.css';
+@import './recipe-edit.css';
+
 
 *,*::before, *::after {
     box-sizing: border-box;
@@ -19,4 +24,8 @@ body {
 h3 {
     font-family: 'Lakki Reddy', Georgia, 'Times New Roman', Times, serif;
     size: 30px;
+}
+
+.mr-1{
+    margin-right: 5px;
 }
